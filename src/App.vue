@@ -3,7 +3,7 @@
     <div class="col-12 col-md-6 p-3">
       <div class="border rounded p-3">
         <h2>操作</h2>
-        <form @submit.prevent>
+        <form>
           <BFormControls
               class="mb-3"
               label="名字"
